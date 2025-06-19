@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<robot xmlns:xacro="http://www.ros.org/wiki/xacro"  name="robot">
+
+    <xacro:include filename="/home/user/jerin_ws/src/my_bot/description/robot_core.xacro" />
+    <xacro:include filename="/home/user/jerin_ws/src/my_bot/description/gazebo_control.xacro" />
+
+
+</robot>
